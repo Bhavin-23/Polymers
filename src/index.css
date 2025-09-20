@@ -1,0 +1,22 @@
+ @tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+ .clip-hex1 {
+  clip-path: polygon(0 0, 90% 0, 100% 50%, 90% 100%, 0 100%);
+}
+
+
+.clip-hex {
+  clip-path: polygon(10% 0, 90% 0, 84% 50%, 90% 100%, 10% 100%, 16% 50%);
+}
+
+.clip-hex33 {
+  clip-path: polygon(10% 0%, 90% 0%, 100% 50%, 90% 100%, 10% 100%, 0% 50%);
+}
+
+
+.clip-hex44 {
+  clip-path: polygon(10% 0, 90% 0, 90% 50%, 90% 100%, 10% 100%, 16% 50%);
+}
