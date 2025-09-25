@@ -34,7 +34,7 @@ The website aims to enhance user engagement while maintaining a professional loo
 
 ## Technologies Used
 
-- **React.js** – For building the user interface  
+- **React** – For building the user interface  
 - **Tailwind CSS** – For styling and responsive design  
 - **React Icons** – For vector icons in the project  
 - **Framer Motion** – For smooth animations and transitions  
