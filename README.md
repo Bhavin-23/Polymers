@@ -41,4 +41,7 @@ The website aims to enhance user engagement while maintaining a professional loo
 
 ---
 
-## Screenshots
+## 🌐 Live Demo & Repository
+
+- 🔗 **Live Demo:** [Click here to view](https://polymers-ten.vercel.app/)  
+- 🔗 **GitHub Repository:** [Click here to view](https://polymers11.netlify.app/)
